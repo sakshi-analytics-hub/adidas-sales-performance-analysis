@@ -18,10 +18,14 @@ Generate insights to support business decision-making
 
 adidas-sales-performance-analysis/
 ├── Adidas_Sales_Analysis.ipynb   # Main analysis notebook
+
 ├── data/                         # Dataset files
+
 │   └── adidas_sales.csv
 ├── visuals/                      # Charts and plots
+
 ├── reports/                      # Optional summaries
+
 └── README.md                     # Project documentation
 
 🧰 Tools & Technologies
@@ -49,6 +53,7 @@ Feature Analysis – Compare sales across regions, product categories, and time 
 Visualizations – Create charts such as bar graphs, line plots, and heatmaps to show trends.
 
 Insights Extraction – Identify key business insights and performance drivers.
+
 
 📌 Key Insights
 
