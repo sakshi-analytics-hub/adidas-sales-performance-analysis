@@ -7,6 +7,7 @@ This project focuses on analyzing Adidas sales data to understand overall busine
 The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to highlight patterns in sales performance across different dimensions like time, location, and product type.
 
 
+
 🧠 Objectives
 
 Analyze overall sales performance and revenue trends
@@ -14,6 +15,7 @@ Identify top-performing products and categories
 Examine regional sales distribution
 Understand seasonal or time-based sales patterns
 Generate insights to support business decision-making
+
 
 
 📁 Project Structure
@@ -31,6 +33,7 @@ adidas-sales-performance-analysis/
 └── README.md                     # Project documentation
 
 
+
 🧰 Tools & Technologies
 
 Python
@@ -39,10 +42,12 @@ Pandas, NumPy for data processing
 Matplotlib, Seaborn for visualization
 
 
+
 📎 Dataset
 
 The dataset used in this project is sourced from Kaggle:
 https://www.kaggle.com/
+
 
 
 📊 Analysis Steps (in Notebook)
@@ -60,6 +65,7 @@ Visualizations – Create charts such as bar graphs, line plots, and heatmaps to
 Insights Extraction – Identify key business insights and performance drivers.
 
 
+
 📌 Key Insights
 
 (Customize based on your results)
@@ -70,9 +76,11 @@ Seasonal trends impact overall sales
 A small number of products drive a large portion of revenue
 
 
+
 📈 Why This Analysis Matters
 
 Sales performance analysis helps businesses understand what drives revenue and where improvements can be made. By identifying high-performing products and regions, companies can optimize inventory, marketing strategies, and resource allocation.
+
 
 
 🧩 Conclusion
